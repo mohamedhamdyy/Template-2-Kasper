@@ -156,11 +156,9 @@ header nav ul li a:hover {
 /* Start Landing */
 
 .landing {
-  background-image: url("photos/landing.jpg");
+  background-color: #ededed;
   position: relative;
-  background-size: cover;
   min-height: 100vh;
-  background-color: #1f2021;
 }
 
 .landing .overlay {
